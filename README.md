@@ -20,8 +20,6 @@ Programs/Tools/Languages I have used so far:
 - React.js
 
 Many of the projects I have done are full stack applications. My capstone project, StrictlyAlbums was a full stack project. I created both the frontend and backend portions with React and Node.js. I used SQL and postgreSQL to implement a database schema after connecting to the Spotify API.
-__________________________________________________________________________________________________________________________________________
-
 
 __________________________________________________________________________________________________________________________________________
 What I like to do:
